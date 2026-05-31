@@ -4,7 +4,7 @@ virtEnvAgenticPatterns/
 # Ignore all current pattern folders except Pattern#01
 
 
-Pattern#04 Human-In-The-Loop/
+
 Pattern#05 Multi-Agent-Systems Overview/
 Pattern#06 Network Multi-agent-system/
 Pattern#06 Network Multi-agent-system - Copy (6)/
@@ -16,7 +16,7 @@ Pattern#10 Multi-agentic-RAG Overview/
 Pattern#11 Hierarchical RAG (Multi-agent-Rag-Paradigm)/
 Pattern#12 Sequential Multi-Hop RAG (Multi-agent-Rag-Paradigm)/
 Pattern#13 Collaborative Debate RAG (Multi-agent-Rag-Paradigm)/
-
+Pattern#14 Agentic RAG/
 # Ensure these files are never ignored
 !README.md
 !requirements.txt
