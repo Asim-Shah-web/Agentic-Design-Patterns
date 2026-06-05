@@ -3,11 +3,6 @@ virtEnvAgenticPatterns/
 
 # Ignore all current pattern folders except Pattern#01
 
-
-
-Pattern#06 Network Multi-agent-system - Copy (6)/
-Pattern#06 Network Multi-agent-system - Copy (7)/
-Pattern#07 Hierarchical Multi-agent-system/
 Pattern#08 Parallel Map-Reduce Multi-Agent-System/
 Pattern#09 Supervisor-As-Tools Multi-agent-system/
 Pattern#10 Agentic RAG/
@@ -19,6 +14,9 @@ Pattern#15 Sequential Multi-Hop RAG (Multi-agent-Rag-Paradigm)/
 Pattern#16 Collaborative Debate RAG (Multi-agent-Rag-Paradigm)/
 Pattern#17 Adaptive RAG (Adaptive-Rag-Paradigm)/
 Pattern#18 Autonomous RAG (Autonomous-Rag-Paradigm)/
+convert_to_notebook_manual.py
+convert_to_notebook.py
+
 # Ensure these files are never ignored
 !README.md
 !requirements.txt
