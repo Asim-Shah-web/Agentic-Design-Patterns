@@ -47,6 +47,10 @@ Click on the folder emoji (📂) to explore the code, documentation, and noteboo
 | **11** | Hierarchical RAG (Multi-Agent Paradigm) | [📂](./Pattern%2311%20Hierarchical%20RAG%20%28Multi-agent-Rag-Paradigm%29) |
 | **12** | Sequential Multi-Hop RAG (Multi-Agent Paradigm) | [📂](./Pattern%2312%20Sequential%20Multi-Hop%20RAG%20%28Multi-agent-Rag-Paradigm%29) |
 | **13** | Collaborative Debate RAG (Multi-Agent Paradigm) | [📂](./Pattern%2313%20Collaborative%20Debate%20RAG%20%28Multi-agent-Rag-Paradigm%29) |
+| **14** | Adaptive RAG (Adaptive-Rag-Paradigm) | [📂](./Pattern%2314%20Adaptive%20RAG%20%28Adaptive-Rag-Paradigm%29) |
+| **15** | Autonomous RAG (Autonomous-Rag-Paradigm) | [📂](./Pattern%2315%20Autonomous%20RAG%20%28Autonomous-Rag-Paradigm%29) |
+| **16** | Corrective RAG (Corrective-Rag-Paradigm) | [📂](./Pattern%2316%20Corrective%20RAG%20%28Corrective-Rag-Paradigm%29) |
+| **17** | Self RAG (Self-Rag-Paradigm) | [📂](./Pattern%2317%20Self%20RAG%20%28Self-Rag-Paradigm%29) |
 
 > *Note: More patterns will be added in the coming days as the landscape of Agentic AI continues to evolve!*
 
