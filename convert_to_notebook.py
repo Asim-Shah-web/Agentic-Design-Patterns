@@ -31,4 +31,4 @@ convert_to_notebook("parallel_map_reduce_pattern.md", "22_parallel_map_reduce.py
 convert_to_notebook("supervisor_as_tools_pattern.md", "23_supervisor_as_tools.py", "23_supervisor_as_tools.ipynb")
 convert_to_notebook("hitl_pattern.md", "14_hitl.py", "14_hitl.ipynb")
 convert_to_notebook("hierarchical_rag_pattern.md", "24_hierarchical_rag.py", "24_hierarchical_rag.ipynb")
-print("Successfully created notebooks")
+print("Successfully created notebooks!")

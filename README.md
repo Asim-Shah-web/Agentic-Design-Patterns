@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🤖 Agentic Design Patterns
-<img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1200&auto=format&fit=crop" alt="Agentic AI Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+<img src="./assets/banner.png" alt="Agentic AI Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
 
 [![Built by](https://img.shields.io/badge/Built_by-Asim_Shah-blue?style=for-the-badge&logo=github)](https://github.com/Asim-Shah-web)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asim-shah-ai-dev/)
@@ -43,16 +43,22 @@ Click on the folder emoji (📂) to explore the code, documentation, and noteboo
 | **7** | Hierarchical Multi-Agent System | [📂](./Pattern%2307%20Hierarchical%20Multi-agent-system) |
 | **8** | Parallel Map-Reduce Multi-Agent System | [📂](./Pattern%2308%20Parallel%20Map-Reduce%20Multi-Agent-System) |
 | **9** | Supervisor-As-Tools Multi-Agent System | [📂](./Pattern%2309%20Supervisor-As-Tools%20Multi-agent-system) |
-| **10** | Multi-Agentic RAG Overview | [📂](./Pattern%2310%20Multi-agentic-RAG%20Overview) |
-| **11** | Hierarchical RAG (Multi-Agent Paradigm) | [📂](./Pattern%2311%20Hierarchical%20RAG%20%28Multi-agent-Rag-Paradigm%29) |
-| **12** | Sequential Multi-Hop RAG (Multi-Agent Paradigm) | [📂](./Pattern%2312%20Sequential%20Multi-Hop%20RAG%20%28Multi-agent-Rag-Paradigm%29) |
-| **13** | Collaborative Debate RAG (Multi-Agent Paradigm) | [📂](./Pattern%2313%20Collaborative%20Debate%20RAG%20%28Multi-agent-Rag-Paradigm%29) |
-| **14** | Adaptive RAG (Adaptive-Rag-Paradigm) | [📂](./Pattern%2314%20Adaptive%20RAG%20%28Adaptive-Rag-Paradigm%29) |
-| **15** | Autonomous RAG (Autonomous-Rag-Paradigm) | [📂](./Pattern%2315%20Autonomous%20RAG%20%28Autonomous-Rag-Paradigm%29) |
-| **16** | Corrective RAG (Corrective-Rag-Paradigm) | [📂](./Pattern%2316%20Corrective%20RAG%20%28Corrective-Rag-Paradigm%29) |
-| **17** | Self RAG (Self-Rag-Paradigm) | [📂](./Pattern%2317%20Self%20RAG%20%28Self-Rag-Paradigm%29) |
+| **10** | Agentic RAG | [📂](./Pattern%2310%20Agentic%20RAG) |
+| **11** | Corrective RAG (Corrective-Rag-Paradigm) | [📂](./Pattern%2311%20Corrective%20RAG%20%28Corrective-Rag-Paradigm%29) |
+| **12** | Self RAG (Self-Rag-Paradigm) | [📂](./Pattern%2312%20Self%20RAG%20%28Self-Rag-Paradigm%29) |
+| **13** | Multi-Agentic RAG Overview | [📂](./Pattern%2313%20Multi-agentic-RAG%20Overview) |
+| **14** | Hierarchical RAG (Multi-Agent Paradigm) | [📂](./Pattern%2314%20Hierarchical%20RAG%20%28Multi-agent-Rag-Paradigm%29) |
+| **15** | Sequential Multi-Hop RAG (Multi-Agent Paradigm) | [📂](./Pattern%2315%20Sequential%20Multi-Hop%20RAG%20%28Multi-agent-Rag-Paradigm%29) |
+| **16** | Collaborative Debate RAG (Multi-Agent Paradigm) | [📂](./Pattern%2316%20Collaborative%20Debate%20RAG%20%28Multi-agent-Rag-Paradigm%29) |
+| **17** | Adaptive RAG (Adaptive-Rag-Paradigm) | [📂](./Pattern%2317%20Adaptive%20RAG%20%28Adaptive-Rag-Paradigm%29) |
+| **18** | Autonomous RAG (Autonomous-Rag-Paradigm) | [📂](./Pattern%2318%20Autonomous%20RAG%20%28Autonomous-Rag-Paradigm%29) |
 
-> *Note: More patterns will be added in the coming days as the landscape of Agentic AI continues to evolve!*
+---
+
+## 📚 Future Roadmap & Contributions
+
+*   **PDF Pattern Notes:** I will be compiling a comprehensive, detailed PDF study guide covering all these Agentic Patterns in the near future. Stay tuned!
+*   **Open-Source Contributions:** This repository is open to the community! If you are learning or building other agentic paradigms (e.g., Swarms, routing tricks, multi-modal agents) and want to add them as a pattern, you are highly welcome to open a Pull Request. Let's make this the ultimate learning hub for Agentic AI!
 
 ---
 
@@ -73,7 +79,11 @@ Click on the folder emoji (📂) to explore the code, documentation, and noteboo
 3. **Configure Environment Variables:**
    Create a `.env` file in the root directory and add your API keys (e.g., `OPENAI_API_KEY`, `GROQ_API_KEY`).
 4. **Explore:** Open the Jupyter Notebooks inside each pattern's folder to run the agents step-by-step!
-5. **Enhance View:** Install vscode extensions like mermaid md view for better visibilty of diagrams and flowcharts
+5. **Enhance Markdown Viewing:** 
+   To view the workflow flowcharts and state machines, it is highly recommended to view the markdown files (`.md`) using an extension that supports **Mermaid.js** rendering. 
+   *   For **VS Code**: Install the **Markdown Preview Enhanced** extension or the **Mermaid Preview** extension.
+   *   For **GitHub**: Native rendering is supported out of the box!
+
 ---
 
 ## 👨‍💻 About the Author

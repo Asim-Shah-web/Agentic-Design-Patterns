@@ -1,21 +1,28 @@
 .env
 virtEnvAgenticPatterns/
 
-# Ignore all current pattern folders except Pattern#01
-
-Pattern#08 Parallel Map-Reduce Multi-Agent-System/
-Pattern#09 Supervisor-As-Tools Multi-agent-system/
-Pattern#10 Agentic RAG/
-Pattern#11 Corrective RAG (Corrective-Rag-Paradigm)/
-Pattern#12 Self RAG (Self-Rag-Paradigm)/
-Pattern#13 Multi-agentic-RAG Overview/
-Pattern#14 Hierarchical RAG (Multi-agent-Rag-Paradigm)/
-Pattern#15 Sequential Multi-Hop RAG (Multi-agent-Rag-Paradigm)/
-Pattern#16 Collaborative Debate RAG (Multi-agent-Rag-Paradigm)/
-Pattern#17 Adaptive RAG (Adaptive-Rag-Paradigm)/
-Pattern#18 Autonomous RAG (Autonomous-Rag-Paradigm)/
+# Ignore helper scripts
 convert_to_notebook_manual.py
 convert_to_notebook.py
+
+# # Ignore all current pattern folders except Pattern#01
+# Pattern#02 Self_Reflection OR Reflexion/
+# Pattern#03 Plan And Execute/
+# Pattern#04 Human-In-The-Loop/
+# Pattern#05 Multi-Agent-Systems Overview/
+# Pattern#06 Network Multi-agent-system/
+# Pattern#07 Hierarchical Multi-agent-system/
+# Pattern#08 Parallel Map-Reduce Multi-Agent-System/
+# Pattern#09 Supervisor-As-Tools Multi-agent-system/
+# Pattern#10 Agentic RAG/
+# Pattern#11 Corrective RAG (Corrective-Rag-Paradigm)/
+# Pattern#12 Self RAG (Self-Rag-Paradigm)/
+# Pattern#13 Multi-agentic-RAG Overview/
+# Pattern#14 Hierarchical RAG (Multi-agent-Rag-Paradigm)/
+# Pattern#15 Sequential Multi-Hop RAG (Multi-agent-Rag-Paradigm)/
+# Pattern#16 Collaborative Debate RAG (Multi-agent-Rag-Paradigm)/
+# Pattern#17 Adaptive RAG (Adaptive-Rag-Paradigm)/
+# Pattern#18 Autonomous RAG (Autonomous-Rag-Paradigm)/
 
 # Ensure these files are never ignored
 !README.md
